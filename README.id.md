@@ -51,7 +51,7 @@ MIT — lihat [LICENSE](LICENSE).
 
 ## Siapa yang merawat ini
 
-[Manaira Labs](https://manairalabs.com). Kami membangun produk AI dan menyediakan konsultasi untuk bisnis Indonesia. Skill-skill ini diekstrak dari pemakaian produksi di [Bicara Business Platform](https://bicara.ai), platform native AI yang kami operasikan untuk UKM Indonesia.
+[Manaira Labs](https://manairalabs.com), ditulis dan dipelihara oleh [Nurul Arif Setiawan](https://github.com/arifsetiawan). Kami membangun produk AI dan menyediakan konsultasi untuk bisnis Indonesia. Skill-skill ini diekstrak dari pemakaian produksi di [Bicara Business Platform](https://bicara.ai), platform native AI yang kami operasikan untuk UKM Indonesia.
 
 Proyek open-source terkait:
 

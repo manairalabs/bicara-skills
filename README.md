@@ -53,7 +53,7 @@ MIT — see [LICENSE](LICENSE).
 
 ## Who maintains this
 
-[Manaira Labs](https://manairalabs.com). We build AI products and consulting for Indonesian businesses. These skills are extracted from production use inside [Bicara Business Platform](https://bicara.ai), the AI-native platform we operate for Indonesian SMBs.
+[Manaira Labs](https://manairalabs.com), written and maintained by [Nurul Arif Setiawan](https://github.com/arifsetiawan). We build AI products and consulting for Indonesian businesses. These skills are extracted from production use inside [Bicara Business Platform](https://bicara.ai), the AI-native platform we operate for Indonesian SMBs.
 
 Related open-source work:
 
